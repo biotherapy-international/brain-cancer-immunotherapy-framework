@@ -53,3 +53,17 @@ https://ibiotherapy.com/immunotherapy/brain-cancer/
 
 # brain-cancer-immunotherapy-framework
 Scientific framework and immunological rationale for individualized brain tumor immunotherapy protocols.
+
+## Keywords and Research Context
+
+Brain cancer immunotherapy  
+Glioblastoma immunotherapy  
+Tumor stem cells  
+Minimal residual disease  
+Cellular immunotherapy  
+Alloreactive immune response  
+Translational oncology  
+Experimental immunotherapy framework  
+
+This repository is intended for scientific, academic, and research transparency purposes.
+
