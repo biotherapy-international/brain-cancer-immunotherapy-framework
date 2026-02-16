@@ -54,6 +54,16 @@ https://ibiotherapy.com/immunotherapy/brain-cancer/
 # brain-cancer-immunotherapy-framework
 Scientific framework and immunological rationale for individualized brain tumor immunotherapy protocols.
 
+# Clinical Links
+For disease-specific clinical information:
+
+# Glioblastoma
+https://ibiotherapy.com/immunotherapy/brain-cancer/glioblastoma/
+# Astrocytoma
+https://ibiotherapy.com/immunotherapy/brain-cancer/astrocytoma/
+# Brain cancer overview
+https://ibiotherapy.com/immunotherapy/brain-cancer/
+
 ## Keywords and Research Context
 
 Brain cancer immunotherapy  
