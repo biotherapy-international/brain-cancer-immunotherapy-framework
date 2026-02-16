@@ -80,5 +80,24 @@ Alloreactive immune response
 Translational oncology  
 Experimental immunotherapy framework  
 
+---
+
+##  Related Scientific Literature
+
+Oncolytic Virus Research in Glioma
+• Newcastle disease virus selectively infects and kills glioblastoma stem cells
+• Mesenchymal stem cell based delivery systems for oncolytic virotherapy in brain tumors
+• Role of mesenchymal stem cells in delivering NDV to glioma cells and glioma stem cells (2013)
+• Mesenchymal stem cells enhance the oncolytic effect of NDV in glioma and glioma stem cells via TRAIL secretion (2016)
+
+Glioma Stem Cell Biology
+• MicroRNA-137 is downregulated in glioblastoma and inhibits stemness of glioma stem cells (2013)
+• MicroRNA-145 is downregulated in glial tumors and regulates glioma cell migration (2013)
+• RTVP-1 regulates mesenchymal transformation of glioma stem cells and affects self-renewal and migration (2013)
+• MicroRNA-21/137 regulatory networks in glioblastoma
+
+Alloreactive Immunotherapy Platform
+• Immunotherapy using intentionally mismatched immune donors as a platform technology for enhancing graft vs tumor and antitumor immune responses (2023)
+
 This repository is intended for scientific, academic, and research transparency purposes.
 
